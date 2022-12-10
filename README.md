@@ -1,2 +1,2 @@
 # paper reimagined
-paper reimagined is an open-source stationery brand (involving no programming)
+paper reimagined is a stationery brand based on open source principles (involving no programming)
